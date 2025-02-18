@@ -34,7 +34,7 @@ Languages I'm currently developing my skills in:
   <a href="https://github.com/AdrianProg-tech" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/adrian-borzecki-580021326/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/adrian-borzęcki-580021326/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
   </a>
   <a href="https://www.facebook.com/adrian.borzecki.18" rel="nofollow">
