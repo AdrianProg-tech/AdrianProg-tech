@@ -12,6 +12,8 @@ Feel free to check out my repositories to see what I’m working on!
 <h2>Technologies </h2>
 Languages I'm currently developing my skills in: 
 
+
+
 <p align="center">
   <a href="https://www.learn-c.org/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="max-width: 100%;">
