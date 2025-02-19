@@ -10,9 +10,7 @@ I am a second-year computer science student at Politechnika Świętokrzyska. I�
 Feel free to check out my repositories to see what I’m working on!
 
 <h2>Technologies </h2>
-Languages I'm currently developing my skills in: 
-
-
+<p>Languages I'm currently developing my skills in: </p>
 
 <p align="center">
   <a href="https://www.learn-c.org/" rel="nofollow">
