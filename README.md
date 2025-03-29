@@ -25,8 +25,8 @@ Feel free to check out my repositories to see what I’m working on!
   <a href="https://www.kernel.org/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
   </a>
-  <a href="https://www.mysql.com/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+  <a href="https://www.oracle.com/pl/database/" rel="nofollow">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg' alt='oracle' height='40'>  
   </a>
 </p>
 
